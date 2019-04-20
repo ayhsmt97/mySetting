@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Braver's Solarized Light (themed workbench)",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "editor.fontSize": 16,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "vim.easymotion": true,
+    "vim.useSystemClipboard": true,
+    "java.completion.guessMethodArguments": true,
+    "trailing-spaces.trimOnSave": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
